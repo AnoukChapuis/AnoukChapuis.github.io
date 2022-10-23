@@ -1,0 +1,79 @@
+/*Titre principal*/
+
+h1{
+    text-align: right;
+    font-family: 'Palette Mosaic', cursive;
+    font-size: 120px;
+    color: red;
+    margin: 60px;
+}
+
+
+/*Navigateur*/
+
+ul{
+    text-align: right;
+    list-style-type: none;
+    margin: 60px;
+}
+
+ul li a{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    color: black;
+    text-decoration: none;
+}
+
+ul li a:hover{
+    color: blue;
+}
+
+/*Titres 2 et paragraphes*/
+
+h2{
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    color: black;
+    margin: 60px;
+}
+
+p{
+    text-align: justify;
+    font-family: 'Open Sans', sans-serif;
+    margin: 60px;
+}
+
+div{
+    background: ghostwhite;
+}
+
+.retrait{
+    text-align: left;
+    margin-right: 400px;
+    margin-left: 550px;
+    margin-top: 70px;
+}
+
+span{
+    font-style: italic;
+}
+
+/*Liens*/
+
+p a{
+    color: black;
+    text-decoration: none;
+}
+
+p a:hover{
+    color: blue;
+}
+
+/*Photo*/
+
+img{
+    float: right;
+    border: 3px solid red;
+    border-radius: 20%;
+}
